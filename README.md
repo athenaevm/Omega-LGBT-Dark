@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> The Custest Omega Theme
+> The Custest Omega Theme, but dark: thanks Ratakor for https://github.com/Ratakor/Omega-Dracula-Theme, which provided most colour choices (except for trans ones)
 
 ### 🏠 [Homepage](https://getomega.web.app)
 
